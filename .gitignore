@@ -1,0 +1,21 @@
+# Project planning & working files (not part of the published website)
+CONTEXT.md
+IDENTITY.md
+IMPLEMENTATION_PLAN.md
+PROJECT_PLAN.md
+RULES.md
+project_plan.csv
+audio links.txt
+*.png
+
+# Working folders
+Task 1 - Content Curation & Architecture/
+Task 2 - Phase 1 Semantic HTML Structure/
+Task 3 - Phase 2 CSS Layout & Styling/
+Task 4 - Phase 3 JavaScript Interactivity/
+Task 5 - Testing & Final Milestone Review/
+output/
+
+# OS / editor noise
+Thumbs.db
+.DS_Store
